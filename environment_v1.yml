@@ -1,0 +1,18 @@
+name: changepoints_v1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - scipy
+  - pip
+  - python=3.11
+  - jupyter
+  - tqdm
+  - pytest
+  - jax
+  - jaxlib
+  - rpy2
+  - tikzplotlib
+  - pandas
