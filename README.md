@@ -1,4 +1,4 @@
-# AMP for Change Point Inference in Generalized Linear Models
+# AMP for Change Point Inference in High-Dimensional Regression
 Includes code used to produce experiments in "Inferring Change Points in High-Dimensional Regression via Approximate Message Passing" by Gabriel Arpino, Xiaoqi Liu, Julia Gontarek, and Ramji Venkataramanan.
 
 All plots are generated using Python and/or Jupyter Notebook files.
